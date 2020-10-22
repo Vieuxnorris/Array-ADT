@@ -1,3 +1,5 @@
 # Array-ADT
 
-- Array_ADT_Display
+- Append
+- Insert
+- Display
