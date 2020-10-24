@@ -12,10 +12,10 @@
 - InsertSort
 - IsSorted
 - Rearrange
-- Array* Merge
-- Array* Union
-- Array* Intersection
-- Array* Difference
+- Merge
+- Union
+- Intersection
+- Difference
 - Max
 - Min
 - Sum
