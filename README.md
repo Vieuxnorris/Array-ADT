@@ -1,14 +1,21 @@
 # Array-ADT
 
+- Display
 - Append
 - Insert
-- Display
 - Delete
 - Reverse
 - ReverseOpti
 - LinearSearch
 - BinarySearch
 - RBinarySearch
+- InsertSort
+- IsSorted
+- Rearrange
+- Array* Merge
+- Array* Union
+- Array* Intersection
+- Array* Difference
 - Max
 - Min
 - Sum
