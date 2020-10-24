@@ -1,7 +1,5 @@
 # Array-ADT
 
-Various Algo for Array 1D
-
 - Display
 - Append
 - Insert
